@@ -1,0 +1,25 @@
+{
+  "name": "workflow-2-module-assignment-3-dina-kvivesen",
+  "version": "1.0.0",
+  "description": "## Level 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noroff-FEU-Assignments/workflow-2-module-assignment-3-dina-kvivesen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noroff-FEU-Assignments/workflow-2-module-assignment-3-dina-kvivesen/issues"
+  },
+  "homepage": "https://github.com/Noroff-FEU-Assignments/workflow-2-module-assignment-3-dina-kvivesen#readme",
+  "dependencies": {
+    "apollo-boost": "^0.4.9",
+    "graphql": "^15.8.0",
+    "process": "^0.11.10"
+  }
+}
